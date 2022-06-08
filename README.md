@@ -25,7 +25,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/maya-e-s/manual-drone** and import
+* search for **https://github.com/Microbit-Education/manual-drone** and import
 
 ## Edit this project ![Build status badge](https://github.com/Microbit-Education/manual-drone/workflows/MakeCode/badge.svg)
 
