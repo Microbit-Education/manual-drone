@@ -27,7 +27,7 @@ This repository can be added as an **extension** in MakeCode.
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/maya-e-s/manual-drone** and import
 
-## Edit this project ![Build status badge](https://github.com/maya-e-s/manual-drone/workflows/MakeCode/badge.svg)
+## Edit this project ![Build status badge](https://github.com/Microbit-Education/manual-drone/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
 
@@ -40,7 +40,7 @@ To edit this repository in MakeCode.
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/maya-e-s/manual-drone/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://github.com/Microbit-Education/manual-drone/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
